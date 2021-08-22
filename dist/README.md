@@ -1,11 +1,11 @@
-# skks
-
+# README-generator
+   
   ## Contact 
-  [alex](https://github.com/alex/)
-  slls
+  [aclarke0307](https://github.com/aclarke0307/)
+  a.clarke0307@gmail.com
   
   ## Description
-  kkd
+  Using node to generator a README.
   
   ## Table of Contents
     *[Description](#decription)
@@ -15,14 +15,15 @@
     *[Contributing](#contributing)
   
   ## Installation
-  kdkd
+  npm
 
   ## Usage
   
 
-  ##  License
+  ##License
   MIT
+
   ## Contributing
-  alc
+  aclarke0307
   
     
