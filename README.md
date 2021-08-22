@@ -10,7 +10,7 @@ The project include using inquirer npm package to prompt questions to the user. 
 npm to install dependencies(inquirer,fs)
 
 ## Usage 
-<iframe src="https://drive.google.com/file/d/1Py3tS9pLI7ThuaD6BnLlc26x1WfWVRNB/view" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1Py3tS9pLI7ThuaD6BnLlc26x1WfWVRNB/view
 
 ## website
 https://aclarke0307.github.io/README-generator/
